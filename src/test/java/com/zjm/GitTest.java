@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("test merge");
         System.out.println("test merge third");
         System.out.println("test merge two");
+        System.out.println("test merge four");
     }
 }
